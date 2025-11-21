@@ -130,9 +130,9 @@
 
 # General Writeups
 
-| Description |
-|-----|
-| <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2" target="_blanck">Miracle  One Vulnerability To Rule Them All</a> |
+| Basic Tools | Description |
+|-----------|-----|
+| <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2" target="_blanck"> Special </a> | Miracle  One Vulnerability To Rule Them All |
 | <a href="https://github.com/morpheansec/secure-smart-contract-design-principles">Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a> |
 | <a href="https://portswigger.net/dailyswig/teen-hacker-scoops-4500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a> |
 | <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">400$ Bounty again using Google Dorks</a> |
