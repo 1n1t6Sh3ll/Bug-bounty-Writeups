@@ -939,6 +939,7 @@
 | Category | Writeup |
 |-----------|-----|
 | RCE |<a href="https://github.com/fengguangbin/spring-rce-war">Spring RCE vulnerability reproduction environment </a>
+| Prototype Pollution |<a href="https://github.com/rafax00/PrototypePollution-Lab">Lab - Prototype Pollution</a>
 
 
   
