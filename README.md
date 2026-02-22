@@ -575,6 +575,7 @@
 | Chained |<a href="https://infosecwriteups.com/manipulating-the-websocket-handshake-to-exploit-vulnerabilities-7f8dc3504e9c">Manipulating the WebSocket handshake to exploit vulnerabilities</a>
 | Cloud |<a href="https://www.mend.io/blog/aws-targeted-by-a-package-backfill-attack/">AWS Targeted by a Package Backfill Attack</a>
 | SSPP |<a href="https://www.intruder.io/research/server-side-prototype-pollution">Detecting ServerSide Prototype Pollution</a>
+| SSPP |<a href="https://blog.huntr.com/hunting-vulnerabilities-in-keras-model-deserialization">Hunting Vulnerabilities in Keras Model Deserialization</a>
 | CSRF |<a href="https://hackerone.com/reports/1122408">CSRF on /api/graphql allows executing mutations through GET requests</a>
 | SID|<a href="https://medium.com/@botami143/i-have-found-microsoft-subdomain-website-database-list-database-username-password-1dab07d0c8ea">I have Found Microsoft Subdomain Website database list, database username, password </a>
 | File Read |<a href="https://bugcrowd.com/disclosures/f7ce8504-0152-483b-bbf3-fb9b759f9f89/critical-local-file-read-in-electron-desktop-app">Critical Local File Read in Electron Desktop App</a>
@@ -959,6 +960,7 @@
 |-----------|-----|
 | AI Hacking |<a href="https://thegrayarea.tech/chatgpt-bug-bounty-recon-automation-bd18291953cb">ChatGPT — Bug Bounty Recon Automation</a>
 | AI Hacking |<a href="https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/">Deceiving users with ANSI terminal codes in MCP</a>
+| AI Hacking |
 
 # Security Podcast :
 | Category | Writeup |
