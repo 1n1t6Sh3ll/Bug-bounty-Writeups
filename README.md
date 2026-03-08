@@ -558,7 +558,7 @@
 | Misconfiguration |<a href="https://ltidi.medium.com/the-untold-sendbird-misconfigurations-1496d252bc69">The Untold SendBird Misconfigurations</a>  
 | Path Traversal |<a href="https://mr-medi.github.io/research/2022/11/04/practical-client-side-path-traversal-attacks.html">PRACTICAL CLIENT SIDE PATH TRAVERSAL ATTACKS</a>
 | Chained |<a href="https://tomforb.es/blog/infosys-leak/">Infosys leaked Full Admin Access AWS keys on PyPi for over a year</a>
-| CSRF |<a href="">CSRF protection bypass in GitHub Enterprise management console</a>
+| CSRF |<a href="https://portswigger.net/blog/http-request-smuggling-explained-with-seasoned-bug-bounty-hunter-nahamsec-and-world-class-researcher-james-kettle">CSRF protection bypass in GitHub Enterprise management console</a>
 | Request Smuggling |<a href="https://hackcommander.github.io/posts/2023/05/03/te-te-http-request-smuggling-obfuscating-te-header/">TE.TE HTTP request smuggling obfuscating the TE header</a>
 | Domain Takeover |<a href="https://infosecwriteups.com/fastly-subdomain-takeover-2000-217bb180730f">Fastly Subdomain Takeover $2000</a>
 | Misconfiguration |<a href="https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp">Stealing passwords from infosec Mastodon  without bypassing CSP</a>
@@ -566,6 +566,7 @@
 | RCE |<a href="https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/">OpenEMR  Remote Code Execution in your Healthcare System</a>
 | Chained |<a href="https://systemweakness.com/common-nginx-misconfiguration-leads-to-path-traversal-d58701e997bc">Common Nginx Misconfiguration leads to Path Traversal</a>
 | JAVA XML |<a href="https://googleprojectzero.blogspot.com/2022/11/gregor-samsa-exploiting-java-xml.html">Gregor Samsa: Exploiting Java's XML Signature Verification</a>
+| HTTP Request Smuggling|<a href="">HTTP Request Smuggling Explained: with seasoned bug bounty hunter NahamSec and world-class researcher James Kettle</a>
 | Bypass |<a href="https://shubhdeepp.medium.com/how-i-got-apple-hall-of-fame-3d86f858c05f">How I got Apple Hall Of Fame !</a>
 | Prompt Injection |<a href="https://simonwillison.net/2023/May/2/prompt-injection-explained/">Prompt injection explained, with video, slides, and a transcript</a>
 | POC |<a href="https://github.com/numanturle/CVE-2022-44877">Centos Web Panel 7 Unauthenticated Remote Code Execution  CVE202244877</a>
@@ -723,6 +724,7 @@
 | SSRF Recon |<a href="https://systemweakness.com/bug-bounty-how-i-found-an-ssrf-reconnaissance-7b1821a1b1fd">Bug Bounty { How I found an SSRF ( Reconnaissance ) }</a>
 | Cloud SSRF |<a href="https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf">Cloud is more fun with an SSRF</a>
 | SSRF |<a href="https://blog.yeswehack.com/talent-development/server-side-prototype-pollution-how-to-detect-and-exploit/">Server side prototype pollution, how to detect and exploit</a>
+| SSRF |<a href="https://blog.qwertysecurity.com/Articles/blog3.html">When a SSRF is enough: Full Docker Escape on Windows Docker Desktop (CVE-2025-9074) </a>
 | SSRF |<a href="https://infosecwriteups.com/ssrf-via-dns-rebinding-cve-2022-4096-b7bf75928bb2">SSRF via DNS Rebinding (CVE-2022–4096)</a>
 
 
@@ -962,7 +964,7 @@
 |-----------|-----|
 | AI Hacking |<a href="https://thegrayarea.tech/chatgpt-bug-bounty-recon-automation-bd18291953cb">ChatGPT — Bug Bounty Recon Automation</a>
 | AI Hacking |<a href="https://blog.trailofbits.com/2025/04/29/deceiving-users-with-ansi-terminal-codes-in-mcp/">Deceiving users with ANSI terminal codes in MCP</a>
-| AI Hacking |
+| AI Hacking |<a href="https://blog.trailofbits.com/2025/08/21/weaponizing-image-scaling-against-production-ai-systems/">Weaponizing image scaling against production AI systems </a>
 
 # Security Podcast :
 | Category | Writeup |
