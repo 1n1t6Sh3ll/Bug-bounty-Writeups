@@ -1,4 +1,4 @@
-<h1>Awesome BugBounty 👨‍💻 </h1>
++<h1>Awesome BugBounty 👨‍💻 </h1>
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="400" width="1000">
 </a>
@@ -156,6 +156,7 @@
 | <a href="https://portswigger.net/daily-swig/security-researcher-earns-plaudits-after-discovering-yandex-ssrf-flaw">Security researcher earns plaudits after discovering Yandex SSRF flaw</a> |
 | <a href="https://medium.com/pentesternepal/how-i-was-able-to-reveal-page-admin-of-almost-any-page-on-facebook-5a8d68253e0c">How I was able to reveal page admin of almost any page on Facebook</a> |
 | <a href="https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f">Shopify Plugin Bypass using P3 Clientside injection thru API Implementation Vulnerability</a> |
+| <a href="https://www.quillaudits.com/blog/hack-analysis/how-odinfun-lost-58-3BTC-to-worthless-liquidity"> How Odin.fun Lost 58.2 BTC in a $7M Liquidity Exploit</a> |
 | <a href="https://github.com/honoki/bugbounty-openvpn-socks">Run all your bug bounty VPN profiles in parallel and expose them via multiple local SOCKS proxies.</a> |
 | <a href="https://medium.com/pentesternepal/a-tale-of-zero-click-account-takeover-56b51fdbd7ae">A tale of zero click account takeover</a> |
 | <a href="https://hacktus.tech/subdomain-takeover-leading-to-full-account-takeover">Subdomain Takeover leading to Full Account Takeover</a> |
