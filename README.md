@@ -1,4 +1,4 @@
-+<h1>Awesome BugBounty 👨‍💻 </h1>
+<h1>Awesome BugBounty 👨‍💻 </h1>
 <a href="https://fardeen-ahmed.github.io/">
   <img src="https://github.com/fardeen-ahmed/Bug-bounty-Writeups/blob/main/1.png" alt="None" align="center" height="400" width="1000">
 </a>
