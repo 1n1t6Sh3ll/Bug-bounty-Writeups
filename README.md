@@ -132,11 +132,11 @@
 
 | Writeup | Description |
 |---------|----------------|
-| <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2"> Miracle One Vulnerability To Rule Them All | This writeup is a reearch over chain issues. |
+| <a href="https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2"> Miracle One Vulnerability To Rule Them All |
 | <a href="https://github.com/morpheansec/secure-smart-contract-design-principles">Saltzer and Schroeder's 10 secure design principles as applied to solidity smart contracts.</a> |
 | <a href="https://portswigger.net/dailyswig/teen-hacker-scoops-4500-bug-bounty-for-facebook-flaw-that-allowed-attackers-to-unmask-page-admins">Teen hacker scoops $4,500 bug bounty for Facebook flaw that allowed attackers to unmask page admins</a> |
 | <A href="https://medium.com/@fcwdbrqmr/400-bounty-again-using-google-dorks-6dc8e438f017">400$ Bounty again using Google Dorks</a> |
-| <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">Top 10 web hacking techniques of 2020 | PortSwigger Research</a> |
+| <a href="https://portswigger.net/research/top-10-web-hacking-techniques-of-2020">Top 10 web hacking techniques of 2020 </a> |
 | <a href="https://infosecwriteups.com/how-gopher-works-in-escalating-ssrfs-ce6e5459b630">How Gopher works in escalating SSRFs</a> |
 | <a href="https://cloudsecurityalliance.org/blog/2023/09/01/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure">GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure</a> |
 | <a href="https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/">How to Hack APIs in 2021</a> |
