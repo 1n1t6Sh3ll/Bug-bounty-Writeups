@@ -772,6 +772,8 @@
 | Chained |<a href="https://medium.com/@BrownBearSec/bug-bounty-recon-vertical-correlation-and-the-secret-to-succeeding-cdd532c777c9">Bug Bounty Recon: Vertical Correlation (and the secret to succeeding)</a>
 | Chained |<a href="https://www.wordfence.com/blog/2022/02/critical-vulnerabilities-in-php-everywhere-allow-remote-code-execution/">Critical Vulnerabilities in PHP Everywhere Allow Remote Code Execution</a>
 | Chained |<a href="https://www.intigriti.com/researchers/blog/bug-bytes/bug-bytes-141-sesh-gremlin-attack-rce-via-password-field-pwning-xmlsec-for-info-disclosure-and-bounties">Sesh Gremlin attack, RCE via password field & Pwning XMLSec for info disclosure and bounties</a>
+| Chained |<a href="https://medium.com/@justas_b1/a-simple-supply-chain-bug-worth-11-850-how-gitlab-reinforces-trust-in-open-source-424585c79074">A Simple Supply Chain Bug — Worth $11,850 — How GitLab Reinforces Trust in Open Source
+</a>
 | Chained |<a href="https://www.rcesecurity.com/2022/11/from-zero-to-hero-part-1-bypassing-intel-dcms-authentication-cve-2022-33942/">Bypassing Intel DCM’s Authentication by Spoofing Kerberos and LDAP Responses (CVE-2022-33942)</a>
 | Chained |<a href="https://hackerone.com/reports/584603">RCE on CS:GO client using unsanitized entity ID in EntityMsg message</a>
 | Chained |<a href="https://github.com/TommyTeaVee/ios_15_rce">Remote Code Execution V1 For iOS 15 sent through airdrop after the device was connected to a trusted host</a>
