@@ -716,6 +716,7 @@
 | Chained |<a href="https://www.assetnote.io/resources/research/stealing-administrative-jwts-through-post-auth-ssrf-cve-2021-22056">Stealing administrative JWT's through post auth SSRF (CVE-2021-22056)</a>
 | SSRF |<a href="https://www.assetnote.io/resources/research/turning-bad-ssrf-to-good-ssrf-websphere-portal-cve-2021-27748">Turning bad SSRF to good SSRF: Websphere Portal</a>
 | SSRF |<a href="https://hackerone.com/reports/941178">SSRF for kubeapiserver cloudprovider scene</a>
+| Research |<a href="https://blog.qwertysecurity.com/Articles/blog3.html">When a SSRF is enough: Full Docker Escape on Windows Docker Desktop (CVE-2025-9074)</a>
 | SSRF |<a href="https://hackerone.com/reports/1189367">Full read SSRF that can leak aws metadata and local file inclusion (www.evernote.com)</a>
 | SSRF |<a href="https://portswigger.net/daily-swig/java-rmi-services-often-vulnerable-to-ssrf-attacks-research">Java RMI services often vulnerable to SSRF attacks – research</a>
 | SSRF |<a href="https://www.shielder.com/advisories/cisco-broadworks-commpilot-ssrf/">Cisco BroadWorks CommPilot Application Software Unauthenticated ServerSide Request Forgery (CVE202220951)</a>
