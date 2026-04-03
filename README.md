@@ -504,6 +504,7 @@
 | Shift-Left Abuse |<a href="https://blog.trailofbits.com/2023/02/21/vscode-extension-escape-vulnerability/">Escaping misconfigured VSCode extensions</a>
 | Shift-Left Abuse |<a href="https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef">Trigger custom URL in Medium Android app</a>
 | Chained |<a href="https://hackerone.com/reports/1167753">Add new managed stores without permission</a>
+| Desync Delusion |<a href="https://portswigger.net/blog/the-desync-delusion-are-you-really-protected-against-http-request-smuggling">The Desync Delusion: Are You Really Protected Against HTTP Request Smuggling?</a>
 | Microservices |<a href="https://infosecwriteups.com/hacking-microservices-for-fun-and-bounty-5cc302769e94">Hacking Microservices For Fun and Bounty</a>
 | LFI |<a href="https://blog.snapsec.co/attacking-file-uploads-in-modern-web-applications/">Attacking File Uploads in Modern Web Applications</a>
 | ATO |<a href="https://medium.com/@kshunya/full-account-takeover-via-open-redirection-41c167db46">Full Account Takeover via Open Redirection </a>
