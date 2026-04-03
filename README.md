@@ -531,6 +531,7 @@
 | VS Code |<a href="https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code">Drag and Pwnd: Leverage ASCII characters to exploit VS Code</a>
 | Shift-Left Abuse |<a href="https://hackerone.com/reports/170552">Slack integration setup lacks CSRF protection</a>
 | RCE |<a href="https://hackerone.com/reports/1065500">Multiple bugs leads to RCE on TikTok for Android</a>
+| RCE |<a href="https://blog.sicuranext.com/vtenext-25-02-a-three-way-path-to-rce/">Vtenext 25.02: A three-way path to RCE</a>
 | SID |<a href="http://ysamm.com/?p=627">Leaking Facebook user information to external websites ($2000)</a>
 
 
